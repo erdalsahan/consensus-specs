@@ -13,7 +13,7 @@ This repository hosts the current Ethereum proof-of-stake specifications. Discus
 Core specifications for Ethereum proof-of-stake clients can be found in [specs](specs/). These are divided into features.
 Features are researched and developed in parallel, and then consolidated into sequential upgrades when ready.
 
-### Stable Specifications
+### Stable Specifications 
 
 | Seq. | Code Name | Fork Epoch | Specs |
 | - | - | - | - |
